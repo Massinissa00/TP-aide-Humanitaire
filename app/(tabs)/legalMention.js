@@ -11,7 +11,7 @@ const LegalScreen = () => {
           Ce site web est édité par Sauvez des Vies !, une organisation à but non lucratif enregistrée en France sous le numéro 78517940519 et dont le siège social est situé à Lyon.
         </Text>
         <Text style={styles.paragraph}>
-          Directeur de la publication : Nikolaï
+          Directeur de la publication : Massi
         </Text>
         <Text style={styles.subtitle}>2. Conditions d'utilisation</Text>
         <Text style={styles.paragraph}>
@@ -32,7 +32,7 @@ const LegalScreen = () => {
         </Text>
         <Text style={styles.subtitle}>4. Propriété intellectuelle</Text>
         <Text style={styles.paragraph}>
-          Tous les contenus de ce site web, y compris mais non limité aux textes, images, vidéos, logos, et marques de commerce, sont la propriété de [Nom de votre association ou organisation] et sont protégés par les lois sur la propriété intellectuelle.
+          Tous les contenus de ce site web, y compris mais non limité aux textes, images, vidéos, logos, et marques de commerce, sont la propriété de Sauver des vies et sont protégés par les lois sur la propriété intellectuelle.
         </Text>
       </View>
     </ScrollView>

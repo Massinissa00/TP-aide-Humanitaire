@@ -5,7 +5,7 @@ import { View, StyleSheet, Text } from "react-native";
 export default function HomeScreen() {
     return (
         <View style={styles.container}>
-            <Text>Bonjour et bienvenue, sur le site Sauver des Vies !</Text>
+            <Text>Bonjour, heureux de vous voir sur le site Sauver des Vies !</Text>
         </View>
     );
 }
